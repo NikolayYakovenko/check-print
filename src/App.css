@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.column {
+  flex: 1 0 0;
+}
+
+.pdf-preview {
+  margin-bottom: 30px;
+}
